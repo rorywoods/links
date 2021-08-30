@@ -1,4 +1,5 @@
 # Great Links
+(inspired by [joe](https://github.com/jhealy/awesome))
 
 ## AKS 
 [Enterprise Scale for AKS](https://github.com/azure/enterprise-scale-for-aks)
