@@ -18,7 +18,11 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 
 ## SQL Server on VM
 Checklist: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMChecklist
+
 VM size: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMSizing
+
 Storage: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMStorage
+
 The biggest bang for your buck with SQL Server on Azure VMs - https://aka.ms/AzureSQLVMPricePerf
+
 Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
