@@ -7,6 +7,9 @@
 ## API Design
 https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
 
+## ODSP 
+[Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)
+
 ## Private Link
 https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 
