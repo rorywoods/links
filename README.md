@@ -22,4 +22,5 @@ VM size: Performance best practices for SQL Server on Azure VMs - https://aka.ms
 Storage: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMStorage  
 The biggest bang for your buck with SQL Server on Azure VMs - https://aka.ms/AzureSQLVMPricePerf  
 Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine  
-[Backup to URL Cheat Sheet](https://techcommunity.microsoft.com/t5/datacat/sql-server-backup-to-url-a-cheat-sheet/ba-p/346358)
+[Backup to URL Cheat Sheet](https://techcommunity.microsoft.com/t5/datacat/sql-server-backup-to-url-a-cheat-sheet/ba-p/346358)  
+[SQL FCI on Azure VM](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-overview)  
