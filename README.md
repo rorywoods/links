@@ -9,6 +9,7 @@ https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
 
 ## ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)
+[Data Resiliency](https://docs.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)  
 
 ## Private Link
 https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
