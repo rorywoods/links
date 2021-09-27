@@ -7,6 +7,9 @@
 ## API Design
 https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
 
+## DevOps
+[SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)
+
 ## ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
 [Data Resiliency](https://docs.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)  
