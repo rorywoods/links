@@ -7,6 +7,9 @@
 ## API Design
 https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
 
+## API Management
+[Enterprise Scale APIM](https://github.com/cykreng/Enterprise-Scale-APIM)
+
 ## DevOps
 [SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)
 
