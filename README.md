@@ -26,7 +26,12 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ## Storage
 [Firewall configuration](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?tabs=azure-portal)
 
-## SQL Server on VM
+## SQL
+
+### Azure SQL
+[Connectivity Checker](https://github.com/Azure/SQL-Connectivity-Checker)
+
+### SQL on VM
 Checklist: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMChecklist  
 VM size: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMSizing  
 Storage: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMStorage  
