@@ -6,6 +6,7 @@
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
 [Day 2 Operations](https://docs.microsoft.com/en-us/azure/architecture/operator-guides/aks/day-2-operations-guide)  
 [Enterprise Scale for AKS](https://github.com/azure/enterprise-scale-for-aks)
+[AKS Checklist](https://www.the-aks-checklist.com/)
 
 ## API Design
 https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
