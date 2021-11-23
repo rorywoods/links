@@ -7,6 +7,7 @@
 [Day 2 Operations](https://docs.microsoft.com/en-us/azure/architecture/operator-guides/aks/day-2-operations-guide)  
 [Enterprise Scale for AKS](https://github.com/azure/enterprise-scale-for-aks)  
 [AKS Checklist](https://www.the-aks-checklist.com/)  
+[Storage Benchmarking](https://github.com/circy9/storage-test)  
 
 ## API Design
 https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
