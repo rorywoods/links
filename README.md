@@ -34,9 +34,9 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ## Storage
 [Firewall configuration](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?tabs=azure-portal)
 
-## SQL
+## Data
 
-### Azure SQL
+### Azure SQL DB
 [Connectivity Checker](https://github.com/Azure/SQL-Connectivity-Checker)
 
 ### SQL on VM
@@ -50,3 +50,5 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [SQL FCI on Azure VM](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-overview)  
 [Multi-subnet for AG or FCI](https://techcommunity.microsoft.com/t5/azure-sql/simplify-azure-sql-virtual-machines-ha-and-dr-configuration-by/ba-p/2882897)  
 
+### Data Warehouse
+[Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
