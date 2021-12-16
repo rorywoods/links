@@ -1,6 +1,9 @@
 # Great Links
 (inspired by [joe](https://github.com/jhealy/awesome))
 
+## ADLS
+[Hitchhiker's Guide to the Data Lake](https://aka.ms/adls/hitchhikersguide)  
+
 ## AKS 
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
