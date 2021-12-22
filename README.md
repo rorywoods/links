@@ -13,7 +13,8 @@
 [Storage Benchmarking](https://github.com/circy9/storage-test)  
 
 ## API Design
-https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
+[Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
+[Azure API Design Guidelines](https://github.com/microsoft/api-guidelines/tree/vNext/azure)  
 
 ## API Management
 [Enterprise Scale APIM](https://github.com/cykreng/Enterprise-Scale-APIM)
