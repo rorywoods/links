@@ -1,9 +1,6 @@
 # Great Links
 (inspired by [joe](https://github.com/jhealy/awesome))
 
-## ADLS
-[Hitchhiker's Guide to the Data Lake](https://aka.ms/adls/hitchhikersguide)  
-
 ## AKS 
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
@@ -38,10 +35,16 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ## Storage
 [Firewall configuration](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?tabs=azure-portal)
 
-## Data
+## Data  
+
+### ADLS
+[Hitchhiker's Guide to the Data Lake](https://aka.ms/adls/hitchhikersguide)  
 
 ### Azure SQL DB
 [Connectivity Checker](https://github.com/Azure/SQL-Connectivity-Checker)
+
+### Cosmos DB
+[Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)  
 
 ### SQL on VM
 Checklist: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMChecklist  
