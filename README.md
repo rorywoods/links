@@ -25,6 +25,10 @@
 ## Functions
 [Best Practices](https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices)
 
+## General Computing
+[Bottom Up Computer Science](https://www.bottomupcs.com/index.xhtml)  
+[Harvard CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)  
+
 ## ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
 [Data Resiliency](https://docs.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)  
