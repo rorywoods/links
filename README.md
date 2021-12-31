@@ -47,6 +47,9 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ### Azure SQL DB
 [Connectivity Checker](https://github.com/Azure/SQL-Connectivity-Checker)
 
+### Azure SQL Managed Instance
+[How-to Series](https://aka.ms/sqlmi-howto)  
+
 ### Cosmos DB
 [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)  
 
