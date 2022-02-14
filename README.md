@@ -69,3 +69,6 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 
 ### Data Warehouse
 [Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
+
+### Troubleshooting
+[How to Troubleshoot THREADPOOL Waits and Deadlocked Schedulers](https://eitanblumin.com/2020/10/05/how-to-troubleshoot-threadpool-waits-and-deadlocked-schedulers/)  
