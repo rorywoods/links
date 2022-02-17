@@ -68,7 +68,10 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Multi-subnet for AG or FCI](https://techcommunity.microsoft.com/t5/azure-sql/simplify-azure-sql-virtual-machines-ha-and-dr-configuration-by/ba-p/2882897)  
 
 ### Data Warehouse
-[Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
+[Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)  
+
+### Synapse
+[Synapse Analytics End to End](https://github.com/Azure/azure-synapse-analytics-end2end)  
 
 ### Troubleshooting
 [How to Troubleshoot THREADPOOL Waits and Deadlocked Schedulers](https://eitanblumin.com/2020/10/05/how-to-troubleshoot-threadpool-waits-and-deadlocked-schedulers/)  
