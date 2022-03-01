@@ -35,6 +35,9 @@
 ## Infrastructure as Code  
 [Resouce Module Library (bicep templates)](https://github.com/Azure/ResourceModules)  
 
+## Messaging
+[Asynchronous Messaging and Eventing Resources](https://github.com/clemensv/messaging)  
+
 ## ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
 [Data Resiliency](https://docs.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)  
