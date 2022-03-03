@@ -43,7 +43,10 @@
 [Data Resiliency](https://docs.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)  
 
 ## Private Link
-https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
+https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios  
+
+## Power BI
+[Power BI implementation planning](https://docs.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction)  
 
 ## Storage
 [Firewall configuration](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?tabs=azure-portal)
