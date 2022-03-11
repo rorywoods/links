@@ -67,7 +67,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 
 ### Data Warehouse/Lakehouse
 [Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)  
-[Building the Lakehouse architecture](https://sqlofthenorth.blog/2022/03/10/building-the-lakehouse-architecture-with-synapse-analytics/)
+[Building the Lakehouse architecture](https://sqlofthenorth.blog/2022/03/10/building-the-lakehouse-architecture-with-synapse-analytics/)  
 [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)  
 
 ### SQL on VM
