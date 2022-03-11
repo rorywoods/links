@@ -65,6 +65,11 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ### Cosmos DB
 [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)  
 
+### Data Warehouse/Lakehouse
+[Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)  
+[Building the Lakehouse architecture](https://sqlofthenorth.blog/2022/03/10/building-the-lakehouse-architecture-with-synapse-analytics/)
+[The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)  
+
 ### SQL on VM
 Checklist: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMChecklist  
 VM size: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMSizing  
@@ -75,9 +80,6 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Backup to URL Cheat Sheet](https://techcommunity.microsoft.com/t5/datacat/sql-server-backup-to-url-a-cheat-sheet/ba-p/346358)  
 [SQL FCI on Azure VM](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-overview)  
 [Multi-subnet for AG or FCI](https://techcommunity.microsoft.com/t5/azure-sql/simplify-azure-sql-virtual-machines-ha-and-dr-configuration-by/ba-p/2882897)  
-
-### Data Warehouse
-[Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)  
 
 ### Synapse
 [Synapse Analytics End to End](https://github.com/Azure/azure-synapse-analytics-end2end)  
