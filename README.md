@@ -82,6 +82,7 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 ### Synapse
 [Synapse Analytics End to End](https://github.com/Azure/azure-synapse-analytics-end2end)  
 [Syanpse Troubleshooting](https://azurepocmain.github.io/index.html)  
+[Orchestrate.procfwk - Metadata pipelines](https://mrpaulandrew.github.io/procfwk/)  
 
 ### Troubleshooting
 [How to Troubleshoot THREADPOOL Waits and Deadlocked Schedulers](https://eitanblumin.com/2020/10/05/how-to-troubleshoot-threadpool-waits-and-deadlocked-schedulers/)  
