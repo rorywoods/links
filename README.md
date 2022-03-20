@@ -38,12 +38,17 @@
 ## Messaging
 [Asynchronous Messaging and Eventing Resources](https://github.com/clemensv/messaging)  
 
+## Networking  
+### Private Link
+https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios  
+
+### Security  
+[Network Security Repo](https://github.com/Azure/Azure-Network-Security)  
+
 ## ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
 [Data Resiliency](https://docs.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)  
 
-## Private Link
-https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios  
 
 ## Power BI
 [Power BI implementation planning](https://docs.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction)  
