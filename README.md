@@ -1,6 +1,9 @@
 # Great Links
 (inspired by [joe](https://github.com/jhealy/awesome))
 
+## AI/ML
+[Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
+
 ## AKS 
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
