@@ -57,7 +57,10 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Power BI implementation planning](https://docs.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction)  
 
 ## Storage
-[Firewall configuration](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?tabs=azure-portal)
+[Firewall configuration](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?tabs=azure-portal)  
+
+## Stack HCI
+[Sandbox](https://github.com/microsoft/AzStackHCISandbox)  
 
 ## Data  
 
