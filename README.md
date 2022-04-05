@@ -19,11 +19,12 @@
 ## API Management
 [Enterprise Scale APIM](https://github.com/cykreng/Enterprise-Scale-APIM)
 
-## Arc
-[Arc Jumpstart](https://azurearcjumpstart.io/overview/)
-
 ## App Service
 [Networking Demo](https://github.com/Azure-Samples/app-service-networking-samples)  
+[AAG and App Service Setup](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/setting-up-application-gateway-with-an-app-service-that-uses/ba-p/392490)  
+
+## Arc
+[Arc Jumpstart](https://azurearcjumpstart.io/overview/)
 
 ## DevOps
 [SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)
