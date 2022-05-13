@@ -71,6 +71,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 
 ### Azure SQL DB
 [Connectivity Checker](https://github.com/Azure/SQL-Connectivity-Checker)
+[Azure SQL Tips](https://github.com/microsoft/azure-sql-tips)  
 
 ### Azure SQL Managed Instance
 [How-to Series](https://aka.ms/sqlmi-howto)  
