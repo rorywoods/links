@@ -44,6 +44,8 @@
 [Asynchronous Messaging and Eventing Resources](https://github.com/clemensv/messaging)  
 
 ## Networking  
+[VNet Integration Patterns](https://github.com/fguerri/AzureVNetIntegrationPatterns)  
+
 ### Private Link
 https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios  
 
