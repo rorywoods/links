@@ -1,5 +1,8 @@
 # Great Links
-(inspired by [joe](https://github.com/jhealy/awesome))
+(inspired by [joe](https://github.com/jhealy/awesome))  
+
+## General Azure  
+[Azure Tips & Tricks](https://microsoft.github.io/AzureTipsAndTricks/)  
 
 ## AI/ML
 [Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
