@@ -15,6 +15,7 @@
 [Enterprise Scale for AKS](https://github.com/azure/enterprise-scale-for-aks)  
 [AKS Checklist](https://www.the-aks-checklist.com/)  
 [Storage Benchmarking](https://github.com/circy9/storage-test)  
+[Multi-tenant AKS Guidance](https://github.com/mohmdnofal/aks-multi-tenancy)  
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
