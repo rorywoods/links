@@ -16,6 +16,7 @@
 [AKS Checklist](https://www.the-aks-checklist.com/)  
 [Storage Benchmarking](https://github.com/circy9/storage-test)  
 [Multi-tenant AKS Guidance](https://github.com/mohmdnofal/aks-multi-tenancy)  
+[AKS Construction Helper](https://azure.github.io/AKS-Construction/)  
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
