@@ -17,6 +17,8 @@
 [Storage Benchmarking](https://github.com/circy9/storage-test)  
 [Multi-tenant AKS Guidance](https://github.com/mohmdnofal/aks-multi-tenancy)  
 [AKS Construction Helper](https://azure.github.io/AKS-Construction/)  
+[Windows Container Demos](https://techcommunity.microsoft.com/t5/containers/announcing-windows-container-on-azure-kubernetes-service-demos/ba-p/3628794)  
+
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
