@@ -103,6 +103,8 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Backup to URL Cheat Sheet](https://techcommunity.microsoft.com/t5/datacat/sql-server-backup-to-url-a-cheat-sheet/ba-p/346358)  
 [SQL FCI on Azure VM](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-overview)  
 [Multi-subnet for AG or FCI](https://techcommunity.microsoft.com/t5/azure-sql/simplify-azure-sql-virtual-machines-ha-and-dr-configuration-by/ba-p/2882897)  
+[FCI enhancements in Windows 2019](https://techcommunity.microsoft.com/t5/failover-clustering/failover-clustering-in-azure/ba-p/2554341)  
+[BCDR and ASR for SQL VM](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-sql)  
 
 ### Synapse
 [Synapse Analytics End to End](https://github.com/Azure/azure-synapse-analytics-end2end)  
