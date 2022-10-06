@@ -26,6 +26,8 @@
 
 ## API Management
 [Enterprise Scale APIM](https://github.com/cykreng/Enterprise-Scale-APIM)
+[APIM Networking Options](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-api-management-networking-explained/ba-p/3274323)  
+
 
 ## App Service
 [Networking Demo](https://github.com/Azure-Samples/app-service-networking-samples)  
