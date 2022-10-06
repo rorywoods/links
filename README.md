@@ -25,7 +25,7 @@
 [Azure API Design Guidelines](https://github.com/microsoft/api-guidelines/tree/vNext/azure)  
 
 ## API Management
-[Enterprise Scale APIM](https://github.com/cykreng/Enterprise-Scale-APIM)
+[Enterprise Scale APIM](https://github.com/cykreng/Enterprise-Scale-APIM)  
 [APIM Networking Options](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-api-management-networking-explained/ba-p/3274323)  
 
 
