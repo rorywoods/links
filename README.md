@@ -4,6 +4,9 @@
 ## General Azure  
 [Azure Tips & Tricks](https://microsoft.github.io/AzureTipsAndTricks/)  
 
+## AAD  
+[ASP.NET Core with AAD](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-1-MyOrg/README.md)  
+
 ## AI/ML
 [Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
 [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
