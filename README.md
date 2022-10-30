@@ -21,6 +21,7 @@
 [Multi-tenant AKS Guidance](https://github.com/mohmdnofal/aks-multi-tenancy)  
 [AKS Construction Helper](https://azure.github.io/AKS-Construction/)  
 [Windows Container Demos](https://techcommunity.microsoft.com/t5/containers/announcing-windows-container-on-azure-kubernetes-service-demos/ba-p/3628794)  
+[Azure AKS Review checklist - FTA tool](aka.ms/AKSLZA/Checklist)  
 
 
 ## API Design
@@ -116,6 +117,8 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Syanpse Troubleshooting](https://azurepocmain.github.io/index.html)  
 [Orchestrate.procfwk - Metadata pipelines](https://mrpaulandrew.github.io/procfwk/)  
 [Optimize database schema in Serverless](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/optimize-database-schema-in-serverless-sql-pools-using-qpi/ba-p/3252140)  
+[Traditional Modern Data Warehouse example](https://github.com/justBlindbaek/TraditionalModernDW)  
+
 
 ### Troubleshooting
 [How to Troubleshoot THREADPOOL Waits and Deadlocked Schedulers](https://eitanblumin.com/2020/10/05/how-to-troubleshoot-threadpool-waits-and-deadlocked-schedulers/)  
