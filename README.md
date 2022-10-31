@@ -69,6 +69,8 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
 [Data Resiliency](https://docs.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)  
 
+## Power Apps
+[Power Webinars](https://learn.microsoft.com/en-us/power-apps/webinars?WT.mc_id=powerfuldevs-33631-jemorg)  
 
 ## Power BI
 [Power BI implementation planning](https://docs.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction)  
