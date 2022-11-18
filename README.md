@@ -23,6 +23,8 @@
 [Windows Container Demos](https://techcommunity.microsoft.com/t5/containers/announcing-windows-container-on-azure-kubernetes-service-demos/ba-p/3628794)  
 [Azure AKS Review checklist - FTA tool](aka.ms/AKSLZA/Checklist)  
 [Best practices to harden your AKS environment](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/best-practices-to-harden-your-aks-environment/ba-p/3665659)  
+[Lens - manage k8s environments visually](https://k8slens.dev/)  
+[Cluster Info - visualize k8s entities in lab clusters](https://github.com/scubakiz/clusterinfo)  
 
 
 ## API Design
