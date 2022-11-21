@@ -86,6 +86,9 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 
 ## Data  
 
+### General
+[SQL Workshop Materials](https://github.com/microsoft/sqlworkshops)  
+
 ### ADLS
 [Hitchhiker's Guide to the Data Lake](https://aka.ms/adls/hitchhikersguide)  
 
