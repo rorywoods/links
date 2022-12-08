@@ -128,6 +128,7 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Orchestrate.procfwk - Metadata pipelines](https://mrpaulandrew.github.io/procfwk/)  
 [Optimize database schema in Serverless](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/optimize-database-schema-in-serverless-sql-pools-using-qpi/ba-p/3252140)  
 [Traditional Modern Data Warehouse example](https://github.com/justBlindbaek/TraditionalModernDW)  
+[Test Drive Synapse POC](https://github.com/Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC)  
 
 
 ### Troubleshooting
