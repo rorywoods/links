@@ -26,7 +26,7 @@
 [Lens - manage k8s environments visually](https://k8slens.dev/)  
 [Cluster Info - visualize k8s entities in lab clusters](https://github.com/scubakiz/clusterinfo)  
 [AKS Automation Baseline](https://github.com/Azure/aks-baseline-automation)  
-[K8s Thread Matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)  
+[K8s Threat Matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)  
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
