@@ -57,6 +57,7 @@
 
 ## Infrastructure as Code  
 [Resouce Module Library (bicep templates)](https://github.com/Azure/ResourceModules)  
+[PSRule for Azure](https://azure.github.io/PSRule.Rules.Azure/)  
 
 ## Messaging
 [Asynchronous Messaging and Eventing Resources](https://github.com/clemensv/messaging)  
