@@ -33,7 +33,7 @@
 [Azure API Design Guidelines](https://github.com/microsoft/api-guidelines/tree/vNext/azure)  
 
 ## API Management
-[APIM Landing Zone (aka Enterprise Scale APIM)](aka.ms/EnterpriseScale-APIM)  
+[APIM Landing Zone (aka Enterprise Scale APIM)](https://aka.ms/EnterpriseScale-APIM)  
 [APIM Networking Options](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-api-management-networking-explained/ba-p/3274323)  
 
 
