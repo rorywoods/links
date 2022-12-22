@@ -15,7 +15,7 @@
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
 [Day 2 Operations](https://docs.microsoft.com/en-us/azure/architecture/operator-guides/aks/day-2-operations-guide)  
-[Enterprise Scale for AKS](https://github.com/azure/enterprise-scale-for-aks)  
+[AKS Landing Zone](https://github.com/Azure/AKS-Landing-Zone-Accelerator)  
 [AKS Checklist](https://www.the-aks-checklist.com/)  
 [Storage Benchmarking](https://github.com/circy9/storage-test)  
 [Multi-tenant AKS Guidance](https://github.com/mohmdnofal/aks-multi-tenancy)  
