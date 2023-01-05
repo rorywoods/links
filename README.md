@@ -87,6 +87,11 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ## Stack HCI
 [Sandbox](https://github.com/microsoft/AzStackHCISandbox)  
 
+## Dev  
+
+### Data Sanitization
+[Presidio library](https://github.com/microsoft/presidio) - Python code to replace PII with placeholders in text
+
 ## Data  
 
 ### General
