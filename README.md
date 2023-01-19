@@ -137,6 +137,7 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Optimize database schema in Serverless](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/optimize-database-schema-in-serverless-sql-pools-using-qpi/ba-p/3252140)  
 [Traditional Modern Data Warehouse example](https://github.com/justBlindbaek/TraditionalModernDW)  
 [Test Drive Synapse POC](https://github.com/Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC)  
+[Monitor Synapse Serverless Queries](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/monitoring-synapse-serverless-sql-pool-query-history/ba-p/3710423)  
 
 
 ### Troubleshooting
