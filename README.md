@@ -27,7 +27,8 @@
 [Cluster Info - visualize k8s entities in lab clusters](https://github.com/scubakiz/clusterinfo)  
 [AKS Automation Baseline](https://github.com/Azure/aks-baseline-automation)  
 [K8s Threat Matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)  
-[Azure Serivce Operator](https://azure.github.io/azure-service-operator/) - Heard you like Azure, so we put Azure in your k8s!
+[Azure Service Operator](https://azure.github.io/azure-service-operator/) - Heard you like Azure, so we put Azure in your k8s!
+[Red Dog Sample AKS App](https://github.com/Azure/reddog-aks)  
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
