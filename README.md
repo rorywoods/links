@@ -27,7 +27,7 @@
 [Cluster Info - visualize k8s entities in lab clusters](https://github.com/scubakiz/clusterinfo)  
 [AKS Automation Baseline](https://github.com/Azure/aks-baseline-automation)  
 [K8s Threat Matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)  
-[Azure Service Operator](https://azure.github.io/azure-service-operator/) - Heard you like Azure, so we put Azure in your k8s!
+[Azure Service Operator](https://azure.github.io/azure-service-operator/) - Heard you like Azure, so we put Azure in your k8s!  
 [Red Dog Sample AKS App](https://github.com/Azure/reddog-aks)  
 
 ## API Design
@@ -37,7 +37,7 @@
 ## API Management
 [APIM Landing Zone (aka Enterprise Scale APIM)](https://aka.ms/EnterpriseScale-APIM)  
 [APIM Networking Options](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-api-management-networking-explained/ba-p/3274323)  
-
+[APIOps](https://github.com/Azure/apiops) Maintain APIM config in version control  
 
 ## App Service
 [Networking Demo](https://github.com/Azure-Samples/app-service-networking-samples)  
@@ -66,6 +66,7 @@
 
 ## Networking  
 [VNet Integration Patterns](https://github.com/fguerri/AzureVNetIntegrationPatterns)  
+[Guide to Routing in Azure](https://github.com/cynthiatreger/az-routing-guide-intro)  
 
 ### Private Link
 https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios  
