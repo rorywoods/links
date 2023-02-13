@@ -3,6 +3,7 @@
 
 ## General Azure  
 [Azure Tips & Tricks](https://microsoft.github.io/AzureTipsAndTricks/)  
+[Azure Review Checklists](https://github.com/Azure/review-checklists) FTA uses these when doing design reviews  
 
 ## AAD  
 [ASP.NET Core with AAD](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-1-MyOrg/README.md)  
