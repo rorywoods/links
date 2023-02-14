@@ -4,6 +4,8 @@
 ## General Azure  
 [Azure Tips & Tricks](https://microsoft.github.io/AzureTipsAndTricks/)  
 [Azure Review Checklists](https://github.com/Azure/review-checklists) FTA uses these when doing design reviews  
+[YADA](https://github.com/microsoft/YADA) Yet Another Demo App - when you just need to deploy something  
+[Inspector Gadget](https://github.com/jelledruyts/InspectorGadget) Containerized app that reveals environment information  
 
 ## AAD  
 [ASP.NET Core with AAD](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-1-MyOrg/README.md)  
@@ -22,7 +24,7 @@
 [Multi-tenant AKS Guidance](https://github.com/mohmdnofal/aks-multi-tenancy)  
 [AKS Construction Helper](https://azure.github.io/AKS-Construction/)  
 [Windows Container Demos](https://techcommunity.microsoft.com/t5/containers/announcing-windows-container-on-azure-kubernetes-service-demos/ba-p/3628794)  
-[Azure AKS Review checklist - FTA tool](aka.ms/AKSLZA/Checklist)  
+[Azure AKS Review checklist - FTA tool](https://aka.ms/AKSLZA/Checklist)  
 [Best practices to harden your AKS environment](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/best-practices-to-harden-your-aks-environment/ba-p/3665659)  
 [Lens - manage k8s environments visually](https://k8slens.dev/)  
 [Cluster Info - visualize k8s entities in lab clusters](https://github.com/scubakiz/clusterinfo)  
@@ -30,6 +32,7 @@
 [K8s Threat Matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)  
 [Azure Service Operator](https://azure.github.io/azure-service-operator/) - Heard you like Azure, so we put Azure in your k8s!  
 [Red Dog Sample AKS App](https://github.com/Azure/reddog-aks)  
+[Azure Design Review Checklist](https://ftaaasdev.z6.web.core.windows.net/) FTA as a Service offering
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
