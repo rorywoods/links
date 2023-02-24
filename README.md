@@ -6,6 +6,7 @@
 [Azure Review Checklists](https://github.com/Azure/review-checklists) FTA uses these when doing design reviews  
 [YADA](https://github.com/microsoft/YADA) Yet Another Demo App - when you just need to deploy something  
 [Inspector Gadget](https://github.com/jelledruyts/InspectorGadget) Containerized app that reveals environment information  
+[Azure Sandbox](https://github.com/Azure-Samples/azuresandbox)  
 
 ## AAD  
 [ASP.NET Core with AAD](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-1-MyOrg/README.md)  
