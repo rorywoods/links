@@ -33,7 +33,9 @@
 [K8s Threat Matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)  
 [Azure Service Operator](https://azure.github.io/azure-service-operator/) - Heard you like Azure, so we put Azure in your k8s!  
 [Red Dog Sample AKS App](https://github.com/Azure/reddog-aks)  
-[Azure Design Review Checklist](https://ftaaasdev.z6.web.core.windows.net/) FTA as a Service offering
+[Azure Design Review Checklist](https://ftaaasdev.z6.web.core.windows.net/) FTA as a Service offering  
+[AKS Periscope](https://github.com/Azure/aks-periscope) Collect logs and troubleshooting info about your cluster  
+[AKS kdebug](https://github.com/Azure/kdebug) Command line utility for troubleshooting an k8s cluster  
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
