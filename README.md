@@ -76,6 +76,7 @@
 [VNet Integration Patterns](https://github.com/fguerri/AzureVNetIntegrationPatterns)  
 [Guide to Routing in Azure](https://github.com/cynthiatreger/az-routing-guide-intro)  
 [Traffic Flows in Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)  
+[NTTCP](https://github.com/microsoft/ntttcp) Network throughput testing tool  
 
 #### Private Link
 https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios  
