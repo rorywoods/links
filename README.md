@@ -55,7 +55,8 @@
 [Arc Jumpstart](https://azurearcjumpstart.io/overview/)
 
 ## DevOps
-[SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)
+[SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)  
+[Security Code Scan](https://security-code-scan.github.io/) Code scanner for basic vulnerabilites in VS or stand-alone
 
 ## Functions
 [Best Practices](https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices)
