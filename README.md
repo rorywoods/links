@@ -77,11 +77,14 @@
 [Guide to Routing in Azure](https://github.com/cynthiatreger/az-routing-guide-intro)  
 [Traffic Flows in Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)  
 
-### Private Link
+#### Private Link
 https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios  
 
-### Security  
+#### Security  
 [Network Security Repo](https://github.com/Azure/Azure-Network-Security)  
+
+## Observability  
+[Foundations Demo](https://github.com/a11smiles/observability-foundations)  
 
 ## ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
@@ -101,33 +104,33 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 
 ## Dev  
 
-### Data Sanitization
+#### Data Sanitization
 [Presidio library](https://github.com/microsoft/presidio) - Python code to replace PII with placeholders in text
 
 ## Data  
 
-### General
+#### General
 [SQL Workshop Materials](https://github.com/microsoft/sqlworkshops)  
 
-### ADLS
+#### ADLS
 [Hitchhiker's Guide to the Data Lake](https://aka.ms/adls/hitchhikersguide)  
 
-### Azure SQL DB
+#### Azure SQL DB
 [Connectivity Checker](https://github.com/Azure/SQL-Connectivity-Checker)
 [Azure SQL Tips](https://github.com/microsoft/azure-sql-tips)  
 
-### Azure SQL Managed Instance
+#### Azure SQL Managed Instance
 [How-to Series](https://aka.ms/sqlmi-howto)  
 
-### Cosmos DB
+#### Cosmos DB
 [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)  
 
-### Data Warehouse/Lakehouse
+#### Data Warehouse/Lakehouse
 [Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)  
 [Building the Lakehouse architecture](https://sqlofthenorth.blog/2022/03/10/building-the-lakehouse-architecture-with-synapse-analytics/)  
 [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)  
 
-### SQL on VM
+#### SQL on VM
 Checklist: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMChecklist  
 VM size: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMSizing  
 Storage: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMStorage  
@@ -141,7 +144,7 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [BCDR and ASR for SQL VM](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-sql)  
 [SQL LogScout](https://github.com/microsoft/SQL_LogScout) Our Support team will ask you to use this tool whenever you open a SQL Server case  
 
-### Synapse
+#### Synapse
 [Synapse Analytics End to End](https://github.com/Azure/azure-synapse-analytics-end2end)  
 [Syanpse Troubleshooting](https://azurepocmain.github.io/index.html)  
 [Orchestrate.procfwk - Metadata pipelines](https://mrpaulandrew.github.io/procfwk/)  
@@ -151,5 +154,5 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Monitor Synapse Serverless Queries](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/monitoring-synapse-serverless-sql-pool-query-history/ba-p/3710423)  
 
 
-### Troubleshooting
+#### Troubleshooting
 [How to Troubleshoot THREADPOOL Waits and Deadlocked Schedulers](https://eitanblumin.com/2020/10/05/how-to-troubleshoot-threadpool-waits-and-deadlocked-schedulers/)  
