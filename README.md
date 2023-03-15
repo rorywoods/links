@@ -153,6 +153,7 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [Traditional Modern Data Warehouse example](https://github.com/justBlindbaek/TraditionalModernDW)  
 [Test Drive Synapse POC](https://github.com/Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC)  
 [Monitor Synapse Serverless Queries](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/monitoring-synapse-serverless-sql-pool-query-history/ba-p/3710423)  
+[Analytics-in-a-Box Accelerator](https://github.com/Azure/AnalyticsinaBox)  FTA pre-built Synapse examples  
 
 
 #### Troubleshooting
