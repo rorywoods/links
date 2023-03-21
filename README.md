@@ -4,8 +4,6 @@
 ## General Azure  
 [Azure Tips & Tricks](https://microsoft.github.io/AzureTipsAndTricks/)  
 [Azure Review Checklists](https://github.com/Azure/review-checklists) FTA uses these when doing design reviews  
-[YADA](https://github.com/microsoft/YADA) Yet Another Demo App - when you just need to deploy something  
-[Inspector Gadget](https://github.com/jelledruyts/InspectorGadget) Containerized app that reveals environment information  
 [Azure Sandbox](https://github.com/Azure-Samples/azuresandbox)  
 
 ## AAD  
@@ -105,6 +103,11 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Sandbox](https://github.com/microsoft/AzStackHCISandbox)  
 
 ## Dev  
+
+### Testing tools
+[HttpBin](http://httpbin.org/#/) Sample API app  
+[YADA](https://github.com/microsoft/YADA) Yet Another Demo App - when you just need to deploy something  
+[Inspector Gadget](https://github.com/jelledruyts/InspectorGadget) Containerized app that reveals environment information  
 
 #### Data Sanitization
 [Presidio library](https://github.com/microsoft/presidio) - Python code to replace PII with placeholders in text
