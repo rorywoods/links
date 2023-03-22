@@ -52,6 +52,9 @@
 ## Arc
 [Arc Jumpstart](https://azurearcjumpstart.io/overview/)
 
+## Container Apps
+[Landing Zone Accelerator](https://github.com/Azure/ACA-Landing-Zone-Accelerator)  
+
 ## DevOps
 [SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)  
 [Security Code Scan](https://security-code-scan.github.io/) Code scanner for basic vulnerabilites in VS or stand-alone  
