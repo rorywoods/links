@@ -34,6 +34,7 @@
 [Azure Design Review Checklist](https://ftaaasdev.z6.web.core.windows.net/) FTA as a Service offering  
 [AKS Periscope](https://github.com/Azure/aks-periscope) Collect logs and troubleshooting info about your cluster  
 [AKS kdebug](https://github.com/Azure/kdebug) Command line utility for troubleshooting an k8s cluster  
+[AKS behind Front Door and Private Link](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-expose-nginx-ingress-controller-via-azure-front-door-and/ba-p/3767535)  
 
 ## API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
