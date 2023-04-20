@@ -12,6 +12,7 @@
 ## AI/ML
 [Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
 [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
+[AI Developer Community Hub](https://azureaidevs.github.io/hub/)  
 
 ## AKS 
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
