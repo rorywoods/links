@@ -89,8 +89,9 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 #### Security  
 [Network Security Repo](https://github.com/Azure/Azure-Network-Security)  
 
-## Observability  
+## Observability & Monitoring  
 [Foundations Demo](https://github.com/a11smiles/observability-foundations)  
+[Azure Landing Zone Monitoring](https://github.com/Azure/alz-monitor)  
 
 ## ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
