@@ -106,17 +106,21 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ## Dev  
 [Asynchronous Programming from .NET Team](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)  
 
+### AI
+[Guidance](https://github.com/microsoft/guidance)  
+[Semantic Kernel](https://github.com/microsoft/semantic-kernel)  
+
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
 [Azure API Design Guidelines](https://github.com/microsoft/api-guidelines/tree/vNext/azure)  
+
+### Data Sanitization  
+[Presidio library](https://github.com/microsoft/presidio) - Python code to replace PII with placeholders in text  
 
 ### Testing tools
 [HttpBin](http://httpbin.org/#/) Sample API app  
 [YADA](https://github.com/microsoft/YADA) Yet Another Demo App - when you just need to deploy something  
 [Inspector Gadget](https://github.com/jelledruyts/InspectorGadget) Containerized app that reveals environment information  
-
-### Data Sanitization
-[Presidio library](https://github.com/microsoft/presidio) - Python code to replace PII with placeholders in text
 
 ## Data  
 
