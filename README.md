@@ -117,6 +117,9 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ### Data Sanitization  
 [Presidio library](https://github.com/microsoft/presidio) - Python code to replace PII with placeholders in text  
 
+### IIS
+[IIS Best Practices](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/iis-best-practices/ba-p/1241577)  
+
 ### Testing tools
 [HttpBin](http://httpbin.org/#/) Sample API app  
 [YADA](https://github.com/microsoft/YADA) Yet Another Demo App - when you just need to deploy something  
