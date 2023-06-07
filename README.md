@@ -9,12 +9,6 @@
 ### AAD  
 [ASP.NET Core with AAD](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-1-MyOrg/README.md)  
 
-### AI/ML
-[Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
-[Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
-[AI Developer Community Hub](https://azureaidevs.github.io/hub/)  
-[Azure AI Hub](https://github.com/Azure-Samples/azure-ai) AI Developer Community samples  
-
 ### AKS 
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
@@ -109,6 +103,12 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ### AI
 [Guidance](https://github.com/microsoft/guidance)  
 [Semantic Kernel](https://github.com/microsoft/semantic-kernel)  
+[Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
+[Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
+[AI Developer Community Hub](https://azureaidevs.github.io/hub/)  
+[Azure AI Hub](https://github.com/Azure-Samples/azure-ai) AI Developer Community samples  
+[Azure Open AI Code Samples](https://aka.ms/AOAICodeSamples)  
+[ChatGPT + Enterprise Search](https://github.com/Azure-Samples/azure-search-openai-demo)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
