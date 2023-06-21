@@ -160,6 +160,7 @@ Data Exposed Series - https://www.youtube.com/hashtag/azuresqlvirtualmachine
 [FCI enhancements in Windows 2019](https://techcommunity.microsoft.com/t5/failover-clustering/failover-clustering-in-azure/ba-p/2554341)  
 [BCDR and ASR for SQL VM](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-sql)  
 [SQL LogScout](https://github.com/microsoft/SQL_LogScout) Our Support team will ask you to use this tool whenever you open a SQL Server case  
+[SQL Performance Troubleshooting](https://techcommunity.microsoft.com/t5/sql-server-support-blog/sql-server-slow-performance-troubleshooting-documentation/ba-p/3850034)  
 
 ### Synapse
 [Synapse Analytics End to End](https://github.com/Azure/azure-synapse-analytics-end2end)  
