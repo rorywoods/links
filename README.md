@@ -110,6 +110,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Azure Open AI Code Samples](https://aka.ms/AOAICodeSamples)  
 [ChatGPT + Enterprise Search](https://github.com/Azure-Samples/azure-search-openai-demo)  
 [Open AI Samples](https://github.com/Azure-Samples/openai)  
+[Azure ChatGPT](https://github.com/microsoft/azurechatgpt)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
