@@ -48,6 +48,7 @@
 
 ### Container Apps
 [Landing Zone Accelerator](https://github.com/Azure/ACA-Landing-Zone-Accelerator)  
+[Azure Container Apps .NET Workshop](https://github.com/Azure/aca-dotnet-workshop)  
 
 ### DevOps
 [SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)  
