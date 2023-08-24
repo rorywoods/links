@@ -5,6 +5,7 @@
 [Azure Tips & Tricks](https://microsoft.github.io/AzureTipsAndTricks/)  
 [Azure Review Checklists](https://github.com/Azure/review-checklists) FTA uses these when doing design reviews  
 [Azure Sandbox](https://github.com/Azure-Samples/azuresandbox)  
+[Azure Quick Review](https://github.com/Azure/azqr) A CLI tool that scans your deployed Azure resources for compliance with best practices and recommendations.  
 
 ### AAD  
 [ASP.NET Core with AAD](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-1-MyOrg/README.md)  
