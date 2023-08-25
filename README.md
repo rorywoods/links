@@ -51,11 +51,6 @@
 [Landing Zone Accelerator](https://github.com/Azure/ACA-Landing-Zone-Accelerator)  
 [Azure Container Apps .NET Workshop](https://github.com/Azure/aca-dotnet-workshop)  
 
-### DevOps
-[SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)  
-[Security Code Scan](https://security-code-scan.github.io/) Code scanner for basic vulnerabilites in VS or stand-alone  
-[Extraction and PBI Reports for your AzDO org](https://github.com/vinijmoura/Azure-DevOps)  
-
 ### Functions
 [Best Practices](https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices)
 
@@ -121,6 +116,11 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ### Data Sanitization  
 [Presidio library](https://github.com/microsoft/presidio) - Python code to replace PII with placeholders in text  
 
+### DevOps
+[SQL DevOps](https://devblogs.microsoft.com/azure-sql/devops-for-azure-sql/)  
+[Security Code Scan](https://security-code-scan.github.io/) Code scanner for basic vulnerabilites in VS or stand-alone  
+[Extraction and PBI Reports for your AzDO org](https://github.com/vinijmoura/Azure-DevOps)  
+
 ### IIS
 [IIS Best Practices](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/iis-best-practices/ba-p/1241577)  
 
@@ -150,6 +150,9 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Modern Data Warehouse DataOps](https://github.com/Azure-Samples/modern-data-warehouse-dataops)  
 [Building the Lakehouse architecture](https://sqlofthenorth.blog/2022/03/10/building-the-lakehouse-architecture-with-synapse-analytics/)  
 [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)  
+
+### Databricks  
+[Databricks Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)  
 
 ### SQL on VM
 Checklist: Performance best practices for SQL Server on Azure VMs - https://aka.ms/SQLVMChecklist  
