@@ -142,6 +142,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Azure SQL Tips](https://github.com/microsoft/azure-sql-tips)  
 [Managed Instance How-to Series](https://aka.ms/sqlmi-howto)  
 [Perf Checker Script](https://techcommunity.microsoft.com/t5/azure-database-support-blog/lesson-learned-195-performance-best-practices-for-azure-sql/ba-p/3277878)  
+[Azure SQL Tips Script](https://github.com/microsoft/azure-sql-tips)  
 
 ### Cosmos DB
 [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)  
