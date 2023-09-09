@@ -38,6 +38,7 @@
 [APIM Landing Zone (aka Enterprise Scale APIM)](https://aka.ms/EnterpriseScale-APIM)  
 [APIM Networking Options](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-api-management-networking-explained/ba-p/3274323)  
 [APIOps](https://github.com/Azure/apiops) Maintain APIM config in version control  
+[APIM Networking Explained](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-api-management-networking-explained/ba-p/3274323)  
 
 ### App Service
 [Networking Demo](https://github.com/Azure-Samples/app-service-networking-samples)  
@@ -108,6 +109,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [ChatGPT + Enterprise Search](https://github.com/Azure-Samples/azure-search-openai-demo)  
 [Open AI Samples](https://github.com/Azure-Samples/openai)  
 [Azure ChatGPT](https://github.com/microsoft/azurechatgpt)  
+[Enteprise-Ready Azure OpenAI](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-enterprise-ready-azure-openai-solution-with-azure-api/ba-p/3907562)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
