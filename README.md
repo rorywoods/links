@@ -77,6 +77,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ### Observability & Monitoring  
 [Foundations Demo](https://github.com/a11smiles/observability-foundations)  
 [Azure Landing Zone Monitoring](https://github.com/Azure/alz-monitor)  
+[Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/)  
 
 ### ODSP 
 [Throttling guidance](https://dev.azure.com/svarukal/SPO%20Throttling/_wiki/wikis/SPO-Throttling.wiki/1/SharePoint-Online-Throttling-Guidance)  
