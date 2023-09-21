@@ -98,7 +98,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ## Dev  
 [Asynchronous Programming from .NET Team](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)  
 
-### AI
+### AI and OpenAI
 [Guidance](https://github.com/microsoft/guidance)  
 [Semantic Kernel](https://github.com/microsoft/semantic-kernel)  
 [Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
@@ -110,7 +110,8 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Open AI Samples](https://github.com/Azure-Samples/openai)  
 [Azure ChatGPT](https://github.com/microsoft/azurechatgpt)  
 [Enteprise-Ready Azure OpenAI](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-enterprise-ready-azure-openai-solution-with-azure-api/ba-p/3907562)  
-["Chat with your data" Solution Accelerator](https://github.com/Azure-Samples/azure-search-openai-solution-accelerator)
+["Chat with your data" Solution Accelerator](https://github.com/Azure-Samples/azure-search-openai-solution-accelerator)  
+[APIM, AOAI and PTU](https://github.com/Azure/aoai-apim/blob/main/README.md)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
