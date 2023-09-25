@@ -98,20 +98,23 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 ## Dev  
 [Asynchronous Programming from .NET Team](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)  
 
-### AI and OpenAI
+### AI Apps
 [Guidance](https://github.com/microsoft/guidance)  
 [Semantic Kernel](https://github.com/microsoft/semantic-kernel)  
 [Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
-[Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
 [AI Developer Community Hub](https://azureaidevs.github.io/hub/)  
 [Azure AI Hub](https://github.com/Azure-Samples/azure-ai) AI Developer Community samples  
-[Azure Open AI Code Samples](https://aka.ms/AOAICodeSamples)  
+
+### Azure OpenAI
+[Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
+[Azure OpenAI Code Samples](https://aka.ms/AOAICodeSamples)  
 [ChatGPT + Enterprise Search](https://github.com/Azure-Samples/azure-search-openai-demo)  
-[Open AI Samples](https://github.com/Azure-Samples/openai)  
+[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)  
 [Azure ChatGPT](https://github.com/microsoft/azurechatgpt)  
 [Enteprise-Ready Azure OpenAI](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-enterprise-ready-azure-openai-solution-with-azure-api/ba-p/3907562)  
 ["Chat with your data" Solution Accelerator](https://github.com/Azure-Samples/azure-search-openai-solution-accelerator)  
 [APIM, AOAI and PTU](https://github.com/Azure/aoai-apim/blob/main/README.md)  
+[Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
