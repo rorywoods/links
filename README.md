@@ -112,9 +112,10 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Azure OpenAI Samples](https://github.com/Azure-Samples/openai)  
 [Azure ChatGPT](https://github.com/microsoft/azurechatgpt)  
 [Enteprise-Ready Azure OpenAI](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-enterprise-ready-azure-openai-solution-with-azure-api/ba-p/3907562)  
-["Chat with your data" Solution Accelerator](https://github.com/Azure-Samples/azure-search-openai-solution-accelerator)  
+["Chat with your data" Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)  
 [APIM, AOAI and PTU](https://github.com/Azure/aoai-apim/blob/main/README.md)  
 [Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos)  
+[Sample Chat App](https://github.com/microsoft/sample-app-aoai-chatGPT) - This is the app deployed by the AI Studio button  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
