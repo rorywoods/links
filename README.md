@@ -43,6 +43,7 @@
 [Networking Demo](https://github.com/Azure-Samples/app-service-networking-samples)  
 [AAG and App Service Setup](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/setting-up-application-gateway-with-an-app-service-that-uses/ba-p/392490)  
 [Oryx - automatic repo builder](https://github.com/microsoft/Oryx)  
+[The Ultimate Guide to Running Healthy Apps in the Cloud](https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html)  
 
 ### Arc
 [Arc Jumpstart](https://azurearcjumpstart.io/overview/)
