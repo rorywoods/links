@@ -119,7 +119,6 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos)  
 [Sample Chat App](https://github.com/microsoft/sample-app-aoai-chatGPT) - This is the app deployed by the AI Studio button  
 
-
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
 [Azure API Design Guidelines](https://github.com/microsoft/api-guidelines/tree/vNext/azure)  
@@ -139,6 +138,9 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [HttpBin](http://httpbin.org/#/) Sample API app  
 [YADA](https://github.com/microsoft/YADA) Yet Another Demo App - when you just need to deploy something  
 [Inspector Gadget](https://github.com/jelledruyts/InspectorGadget) Containerized app that reveals environment information  
+
+### Well Architected
+[Why Your Reliability Problems are Really Traffic Problems](https://www.stanza.systems/post/why-your-reliability-problems-are-really-traffic-problems)  
 
 ## Data  
 
