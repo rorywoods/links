@@ -105,6 +105,10 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Applied ML Papers](https://github.com/eugeneyan/applied-ml)  
 [AI Developer Community Hub](https://azureaidevs.github.io/hub/)  
 [Azure AI Hub](https://github.com/Azure-Samples/azure-ai) AI Developer Community samples  
+[AutoGen](https://github.com/microsoft/autogen)  
+[Promptbase - prompt engineering guidance](https://github.com/microsoft/promptbase/)  
+[Microsoft Prompt Engineering Doc](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)  
+[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)  
 
 ### Azure OpenAI
 [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
