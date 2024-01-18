@@ -123,6 +123,8 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos)  
 [Sample Chat App](https://github.com/microsoft/sample-app-aoai-chatGPT) - This is the app deployed by the AI Studio button  
 [Enterprise Azure AI](https://github.com/Azure/enterprise-azureai) - Demonstrates use of APIM, proxy and private endpoints with AOAI
+[AOAI Smart Load Balancing with APIM](https://github.com/andredewes/apim-aoai-smart-loadbalancing)  
+[AOAI Smart Load Balancing with YARP](https://github.com/Azure/aoai-smart-loadbalancing)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
