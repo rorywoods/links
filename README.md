@@ -39,6 +39,9 @@
 [APIM Networking Options](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-api-management-networking-explained/ba-p/3274323)  
 [APIOps](https://github.com/Azure/apiops) Maintain APIM config in version control  
 
+### Application Gateway + WAF
+[Gateway Log Viewer Setup](https://github.com/Azure/azure-quickstart-templates/tree/master/demos/application-gateway-logviewer-goaccess)
+
 ### App Service
 [Networking Demo](https://github.com/Azure-Samples/app-service-networking-samples)  
 [AAG and App Service Setup](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/setting-up-application-gateway-with-an-app-service-that-uses/ba-p/392490)  
