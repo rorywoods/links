@@ -33,6 +33,8 @@
 [AKS kdebug](https://github.com/Azure/kdebug) Command line utility for troubleshooting an k8s cluster  
 [AKS behind Front Door and Private Link](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-expose-nginx-ingress-controller-via-azure-front-door-and/ba-p/3767535)  
 [Restart AKS node one-liner](https://gist.github.com/berndverst/66e7158126863514874a3aba024543f4)  
+[gMSA on AKS Workshop](https://github.com/microsoft/cloud-advocate-workshops/tree/main/gMSA-AKS-Workshop)  
+[Active Directory and Kubernetes – everything you need to know about gMSA with Windows Containers](https://techcommunity.microsoft.com/t5/containers/active-directory-and-kubernetes-everything-you-need-to-know/ba-p/4028405)  
 
 ### API Management
 [APIM Landing Zone (aka Enterprise Scale APIM)](https://aka.ms/EnterpriseScale-APIM)  
