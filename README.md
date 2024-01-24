@@ -128,6 +128,7 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Enterprise Azure AI](https://github.com/Azure/enterprise-azureai) - Demonstrates use of APIM, proxy and private endpoints with AOAI  
 [AOAI Smart Load Balancing with APIM](https://github.com/andredewes/apim-aoai-smart-loadbalancing)  
 [AOAI Smart Load Balancing with YARP](https://github.com/Azure/aoai-smart-loadbalancing)  
+[Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
