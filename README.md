@@ -10,6 +10,27 @@
 ### AAD  
 [ASP.NET Core with AAD](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-1-MyOrg/README.md)  
 
+### Azure OpenAI
+[Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
+[Azure OpenAI Code Samples](https://aka.ms/AOAICodeSamples)  
+[ChatGPT + Enterprise Search](https://github.com/Azure-Samples/azure-search-openai-demo)  
+[ChatGPT + Enterprise Search C#](https://github.com/Azure-Samples/azure-search-openai-demo-csharp)  
+[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)  
+[Azure ChatGPT](https://github.com/microsoft/azurechatgpt)  
+[Enteprise-Ready Azure OpenAI](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-enterprise-ready-azure-openai-solution-with-azure-api/ba-p/3907562)  
+["Chat with your data" Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)  
+[APIM, AOAI and PTU](https://github.com/Azure/aoai-apim/blob/main/README.md)  
+[Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos)  
+[Sample Chat App](https://github.com/microsoft/sample-app-aoai-chatGPT) - This is the app deployed by the AI Studio button  
+[Enterprise Azure AI](https://github.com/Azure/enterprise-azureai) - Demonstrates use of APIM, proxy and private endpoints with AOAI  
+[AOAI Smart Load Balancing with APIM](https://github.com/andredewes/apim-aoai-smart-loadbalancing)  
+[AOAI Smart Load Balancing with YARP](https://github.com/Azure/aoai-smart-loadbalancing)  
+[Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)  
+
+### AI Services
+[Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
+[Key Phrase Demo](https://language.cognitive.azure.com/tryout/keyPhrases)  
+
 ### AKS 
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
@@ -114,23 +135,6 @@ https://github.com/dmauser/PrivateLink/tree/master/DNS-Integration-Scenarios
 [Promptbase - prompt engineering guidance](https://github.com/microsoft/promptbase/)  
 [Microsoft Prompt Engineering Doc](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)  
 [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)  
-
-### Azure OpenAI
-[Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining)  
-[Azure OpenAI Code Samples](https://aka.ms/AOAICodeSamples)  
-[ChatGPT + Enterprise Search](https://github.com/Azure-Samples/azure-search-openai-demo)  
-[ChatGPT + Enterprise Search C#](https://github.com/Azure-Samples/azure-search-openai-demo-csharp)  
-[Azure OpenAI Samples](https://github.com/Azure-Samples/openai)  
-[Azure ChatGPT](https://github.com/microsoft/azurechatgpt)  
-[Enteprise-Ready Azure OpenAI](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-enterprise-ready-azure-openai-solution-with-azure-api/ba-p/3907562)  
-["Chat with your data" Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)  
-[APIM, AOAI and PTU](https://github.com/Azure/aoai-apim/blob/main/README.md)  
-[Azure OpenAI Demos](https://github.com/retkowsky/Azure-OpenAI-demos)  
-[Sample Chat App](https://github.com/microsoft/sample-app-aoai-chatGPT) - This is the app deployed by the AI Studio button  
-[Enterprise Azure AI](https://github.com/Azure/enterprise-azureai) - Demonstrates use of APIM, proxy and private endpoints with AOAI  
-[AOAI Smart Load Balancing with APIM](https://github.com/andredewes/apim-aoai-smart-loadbalancing)  
-[AOAI Smart Load Balancing with YARP](https://github.com/Azure/aoai-smart-loadbalancing)  
-[Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)  
 
 ### API Design
 [Microsoft REST API Design Guideliens](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)  
