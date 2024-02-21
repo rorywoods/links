@@ -31,7 +31,7 @@
 [Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
 [Key Phrase Demo](https://language.cognitive.azure.com/tryout/keyPhrases)  
 
-### AKS 
+### AKS + K8s
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
 [Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)  
 [Day 2 Operations](https://docs.microsoft.com/en-us/azure/architecture/operator-guides/aks/day-2-operations-guide)  
@@ -56,6 +56,7 @@
 [Restart AKS node one-liner](https://gist.github.com/berndverst/66e7158126863514874a3aba024543f4)  
 [gMSA on AKS Workshop](https://github.com/microsoft/cloud-advocate-workshops/tree/main/gMSA-AKS-Workshop)  
 [Active Directory and Kubernetes – everything you need to know about gMSA with Windows Containers](https://techcommunity.microsoft.com/t5/containers/active-directory-and-kubernetes-everything-you-need-to-know/ba-p/4028405)  
+[RunWhen Local](https://github.com/runwhen-contrib/runwhen-local) Scans your cluster and suggests CLI troubleshooting command customized for your workloads  
 
 ### API Management
 [APIM Landing Zone (aka Enterprise Scale APIM)](https://aka.ms/EnterpriseScale-APIM)  
