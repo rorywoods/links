@@ -27,7 +27,8 @@
 [AOAI Smart Load Balancing with YARP](https://github.com/Azure/aoai-smart-loadbalancing)  
 [Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)  
 [Azure OpenAI with Azure API Management and Private Link for Chargeback](https://github.com/Azure-Samples/private-openai-with-apim-for-chargeback)  
-[Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
+[Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)  
+[Azure OpenAI benchmarking tool](https://github.com/Azure/azure-openai-benchmark) - Benchmark PTU deployments  
 
 ### AI Services
 [Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
