@@ -29,7 +29,7 @@
 [Azure OpenAI with Azure API Management and Private Link for Chargeback](https://github.com/Azure-Samples/private-openai-with-apim-for-chargeback)  
 [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)  
 [Azure OpenAI benchmarking tool](https://github.com/Azure/azure-openai-benchmark) - Benchmark PTU deployments  
-[Enterprise Azure OpenAI Hub](Enterprise Azure OpenAI Hub)  
+[Enterprise Azure OpenAI Hub](https://github.com/Azure/ai-hub)  
 [PowerProxy](https://github.com/timoklimmer/powerproxy-aoai) An alternative to APIM for extended AOAI proxy and gateway features  
 
 ### AI Services
