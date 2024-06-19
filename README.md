@@ -30,6 +30,7 @@
 [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)  
 [Azure OpenAI benchmarking tool](https://github.com/Azure/azure-openai-benchmark) - Benchmark PTU deployments  
 [Enterprise Azure OpenAI Hub](Enterprise Azure OpenAI Hub)  
+[PowerProxy](https://github.com/timoklimmer/powerproxy-aoai) An alternative to APIM for extended AOAI proxy and gateway features  
 
 ### AI Services
 [Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
