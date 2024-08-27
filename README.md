@@ -31,6 +31,7 @@
 [Azure OpenAI benchmarking tool](https://github.com/Azure/azure-openai-benchmark) - Benchmark PTU deployments  
 [Enterprise Azure OpenAI Hub](https://github.com/Azure/ai-hub)  
 [PowerProxy](https://github.com/timoklimmer/powerproxy-aoai) An alternative to APIM for extended AOAI proxy and gateway features  
+[APIM GenAI Gateway Toolkit](https://github.com/Azure-Samples/apim-genai-gateway-toolkit) This repo includes a great AOAI simulator  
 
 ### AI Services
 [Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
