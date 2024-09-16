@@ -32,6 +32,7 @@
 [Enterprise Azure OpenAI Hub](https://github.com/Azure/ai-hub)  
 [PowerProxy](https://github.com/timoklimmer/powerproxy-aoai) An alternative to APIM for extended AOAI proxy and gateway features  
 [APIM GenAI Gateway Toolkit](https://github.com/Azure-Samples/apim-genai-gateway-toolkit) This repo includes a great AOAI simulator  
+[AI Hub Gateway Solution Accelerator](https://github.com/Azure-Samples/ai-hub-gateway-solution-accelerator)  
 
 ### AI Services
 [Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
