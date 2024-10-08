@@ -37,6 +37,7 @@
 ### AI Services
 [Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
 [Key Phrase Demo](https://language.cognitive.azure.com/tryout/keyPhrases)  
+[Multi-Modal Document Extraction Accelerator](https://github.com/Azure/multimodal-ai-llm-processing-accelerator)  
 
 ### AKS + K8s
 [Baseline Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)  
