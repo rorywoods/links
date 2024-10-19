@@ -33,6 +33,7 @@
 [PowerProxy](https://github.com/timoklimmer/powerproxy-aoai) An alternative to APIM for extended AOAI proxy and gateway features  
 [APIM GenAI Gateway Toolkit](https://github.com/Azure-Samples/apim-genai-gateway-toolkit) This repo includes a great AOAI simulator  
 [AI Hub Gateway Solution Accelerator](https://github.com/Azure-Samples/ai-hub-gateway-solution-accelerator)  
+[Use APIM policies to maximize AOAI throughput](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/openai-at-scale-maximizing-api-management-through-effective/ba-p/4240317)
 
 ### AI Services
 [Vision Demo](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)  
